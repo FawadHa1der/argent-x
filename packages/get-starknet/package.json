@@ -33,6 +33,6 @@
     "typescript": "^4.0.0"
   },
   "peerDependencies": {
-    "starknet": "^3.10.0"
+    "starknet": "git+https://github.com/fawadha1der/starknet.js.git#develop"
   }
 }
